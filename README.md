@@ -24,7 +24,7 @@
 - 🚲 **Vencedor do Hack'n Bike** (2018)  
   - **Solução para segurança de mobilidade urbana**
 - 🏅 **Vencedor do 3º lugar no Hackathon Acelera Fiesp** (2017)  
-  - Criando **soluções contra a pedofilia**  
+  - Criando **soluções contra a pedofilia com IA**  
 - 🏅 **Vencedor do Campeonato Watson da IBM**  
   - Premiado com o **Nanodegree de Engenheiro de Machine Learning** pela [Udacity](https://www.udacity.com/) em **2016**.
  
