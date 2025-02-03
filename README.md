@@ -6,6 +6,9 @@
 
 ## 🧠 Formação Acadêmica  
 
+- **Pós-Graduação Aperfeiçoamento em Gestão de Riscos e Compliance** (30 de agosto de 2023)  
+  - **Programa de Pós-Graduação da Faculdade FABAD**
+
 - **Pós-Graduação MBIS - Gestão de Negócios, TI, Projetos, Pessoas** (2008)  
   - Foco em **PMI, PMBOK, ITIL e BI**  
   - Conquistada pela apresentação do projeto de conclusão na graduação
