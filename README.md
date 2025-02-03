@@ -6,8 +6,15 @@
 
 ## 🧠 Formação Acadêmica  
 
-🎓 **Nanodegree Engenheiro de Machine Learning**  
-📅 Concluído em **2016** pela [Udacity](https://www.udacity.com/)  
+- **Pós-Graduação MBIS - Gestão de Negócios, TI, Projetos, Pessoas** (2008)  
+  - Foco em **PMI, PMBOK, ITIL e BI**  
+  - Conquistada pela apresentação do projeto de conclusão na graduação
+ 
+## 🏆 Conquistas  
+
+- 🏅 **Vencedor do Campeonato Watson da IBM**  
+  - Premiado com o **Nanodegree de Engenheiro de Machine Learning** pela [Udacity](https://www.udacity.com/) em **2016**.  
+
 
 ### 🚀 Tecnologias e ferramentas  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
