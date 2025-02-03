@@ -4,6 +4,11 @@
 🔹 **Professor e Tech Lead DevOps**  
 🔹 **Apaixonado por Kubernetes e Cloud**  
 
+## 🧠 Formação Acadêmica  
+
+🎓 **Nanodegree Engenheiro de Machine Learning**  
+📅 Concluído em **2016** pela [Udacity](https://www.udacity.com/)  
+
 ### 🚀 Tecnologias e ferramentas  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
