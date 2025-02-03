@@ -16,12 +16,12 @@
 ## 🏆 Conquistas  
 
 - 🎉 **Vencedor do Kong Summit Virtual Hackathon** (2022)  
-- 🏅 **Vencedor do 3º lugar no Hackathon Acelera Fiesp** (2017)  
-  - Criando **soluções contra a pedofilia**  
 - 🏅 **Vencedor do Hackathon AASP** (Novembro de 2018)  
   - Criando uma **Plataforma de IA** para analisar processos judiciais
 - 🚲 **Vencedor do Hack'n Bike** (2018)  
-  - **Solução para segurança de mobilidade urbana**   
+  - **Solução para segurança de mobilidade urbana**
+- 🏅 **Vencedor do 3º lugar no Hackathon Acelera Fiesp** (2017)  
+  - Criando **soluções contra a pedofilia**  
 - 🏅 **Vencedor do Campeonato Watson da IBM**  
   - Premiado com o **Nanodegree de Engenheiro de Machine Learning** pela [Udacity](https://www.udacity.com/) em **2016**.
  
