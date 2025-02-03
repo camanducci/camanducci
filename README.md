@@ -6,6 +6,9 @@
 
 ## 🧠 Formação Acadêmica  
 
+- **Mestrado em Sistemas de Informação - EACH/USP** (2024)  
+  - **Aluno Especial**
+
 - **Pós-Graduação Aperfeiçoamento em Gestão de Riscos e Compliance** (30 de agosto de 2023)  
   - **Programa de Pós-Graduação da Faculdade FABAD**
 
