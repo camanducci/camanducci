@@ -15,6 +15,9 @@
 - 🏅 **Vencedor do Campeonato Watson da IBM**  
   - Premiado com o **Nanodegree de Engenheiro de Machine Learning** pela [Udacity](https://www.udacity.com/) em **2016**.  
 
+## 🏆 Certificações  
+
+- 📜 **Microsoft Azure Fundamentals** (18 de fevereiro de 2024)  
 
 ### 🚀 Tecnologias e ferramentas  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
